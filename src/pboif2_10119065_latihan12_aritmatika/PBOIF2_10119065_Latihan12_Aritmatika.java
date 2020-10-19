@@ -1,3 +1,4 @@
+package pboif2_10119065_latihan12_aritmatika;
 /*
  * @author
  * NAMA                 : Fachriansyah Muhammad Nur Ihsan
@@ -6,7 +7,6 @@
  * Deskripsi Program    : Program ini berisi aritmatika
  *
  */
-package pboif2_10119065_latihan12_aritmatika;
 
 public class PBOIF2_10119065_Latihan12_Aritmatika {
     public static void main(String[] args) {
